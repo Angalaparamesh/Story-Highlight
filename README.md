@@ -3,7 +3,7 @@ Sample Story Highlight page using HTML5 and CSS3. Is the 2pages website home and
 
 ## Technologies Used HTML5 CSS3
 
-How to view You can access my reestar website by visiting [https://angalaparamesh.github.io/Story-Highlight/index.html] feel free to explore the content and get in touch!
+How to view You can access my Story Highlight website by visiting [https://angalaparamesh.github.io/Story-Highlight/index.html] feel free to explore the content and get in touch!
 
 ##Contributing
 
